@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":125,"versionName":"1.2.5","enabled":true,"outputFile":"PhotoViewLibrary-debug.aar","fullName":"debug","baseName":"debug"},"path":"..\\..\\library_manifest\\debug\\AndroidManifest.xml","properties":{"packageId":"uk.co.senab.photoview","split":""}}]
